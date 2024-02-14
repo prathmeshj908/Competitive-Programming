@@ -1,2 +1,2 @@
 # Competitive-Programming
-all algorithm are written by me mostly in C++
+all codes are written by me which in any way involves data structures and algorithms mostly in C++
