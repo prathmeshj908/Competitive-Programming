@@ -1,2 +1,2 @@
 # Competitive-Programming
-all programs are written by me
+all algorithm are written by me mostly in C++
